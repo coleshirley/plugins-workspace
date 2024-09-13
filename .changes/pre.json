@@ -11,12 +11,15 @@
     ".changes/dialog-asset-scope.md",
     ".changes/dialog-file-response-non-exhaustive.md",
     ".changes/dialog-return-path.md",
+    ".changes/fix-clipboard-warnings-sdk.md",
     ".changes/fix-deep-link-config.md",
+    ".changes/fix-fs-app-scopes.md",
     ".changes/fix-fs-write-file-android.md",
     ".changes/fix-http-plugin-abort.md",
     ".changes/fix-ios-file-dialog-default-mode.md",
     ".changes/fix-linux-updater-permission-error.md",
     ".changes/fix-restore-minimized-window-position.md",
+    ".changes/fix-restore-minimized-window-state.md",
     ".changes/fs-dialog-file-path-methods.md",
     ".changes/fs-dialog-file-path-traits.md",
     ".changes/fs-dialog-non-exhaustive-error.md",
@@ -46,6 +49,7 @@
     ".changes/update-fs-api-docs.md",
     ".changes/update-tauri-rc-3.md",
     ".changes/updater-js-headers-download-crate.md",
-    ".changes/updater-js-headers-download.md"
+    ".changes/updater-js-headers-download.md",
+    ".changes/window-state-physical-size.md"
   ]
 }
